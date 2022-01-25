@@ -20,6 +20,12 @@
       ;
     }
     #toplevel {
+      background-color: rgba(0, 0, 0, 0);
+      background-image: url('/Users/samuel/.background-image');
+      background-position: center center;
+      background-size: cover;
+    }
+    .frame {
       background-color: rgba(0, 0, 0, 0.6);
     }
   ")
