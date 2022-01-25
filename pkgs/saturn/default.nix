@@ -50,6 +50,7 @@ let fennel = fetchurl {
       lgi
       luafilesystem
       luaposix
+      penlight
       readline
     ]);
 in stdenv.mkDerivation {
